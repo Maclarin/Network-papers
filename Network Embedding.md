@@ -62,7 +62,7 @@
 
 [28] Wang, Hongwei, et al. "Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation." *arXiv preprint arXiv:1901.08907* (2019). [pdf](<https://arxiv.org/pdf/1901.08907.pdf>)
 
-[29] Cao, Yixin, et al. "Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences." *arXiv preprint arXiv:1902.06236* (2019). [pdf](Cao, Yixin, et al. "Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences." *arXiv preprint arXiv:1902.06236* (2019).)
+[29] Cao, Yixin, et al. "Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences." *arXiv preprint arXiv:1902.06236* (2019). [pdf](<https://arxiv.org/pdf/1902.06236.pdf>)
 
 [30] Wang, Hongwei, et al. "Shine: Signed heterogeneous information network embedding for sentiment link prediction." *Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining*. ACM, 2018.  [pdf](<https://arxiv.org/pdf/1712.00732.pdf>)
 
